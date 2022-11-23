@@ -1,2 +1,0 @@
-# QuanLyNhanVien
-OOP
